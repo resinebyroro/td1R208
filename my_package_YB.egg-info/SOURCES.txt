@@ -1,0 +1,5 @@
+C:/Users/e2301291/PycharmProjects/pythonProject/my_package_YB/find3.py
+my_package_YB.egg-info/PKG-INFO
+my_package_YB.egg-info/SOURCES.txt
+my_package_YB.egg-info/dependency_links.txt
+my_package_YB.egg-info/top_level.txt
